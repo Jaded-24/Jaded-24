@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jaded-24
 - 👀 I’m interested in coding ofcourse
-- 🌱 I’m currently learning java not javascript
+- 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 - 😄 Pronouns: he/him
